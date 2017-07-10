@@ -84,6 +84,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/xenial/Desktop/mobile/n/android/app/build/intermediates/exploded-aar/n/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="bae0199db7ba793462e83c06ab6df17ac4a3425f">
+        <dex dex="/home/xenial/Desktop/mobile/n/android/app/build/intermediates/pre-dexed/debug/n-react-native-vector-icons-unspecified_b369885cec2052a47b3bccd7fd7b94a2799824dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/xenial/Desktop/mobile/n/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"

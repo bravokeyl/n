@@ -26,6 +26,7 @@ MERGED from [com.facebook.react:react-native:0.45.1] /home/xenial/Desktop/mobile
 		ADDED from /home/xenial/Desktop/mobile/n/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-sdk
 ADDED from /home/xenial/Desktop/mobile/n/android/app/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [n:react-native-vector-icons:unspecified] /home/xenial/Desktop/mobile/n/android/app/build/intermediates/exploded-aar/n/react-native-vector-icons/unspecified/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.45.1] /home/xenial/Desktop/mobile/n/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] /home/xenial/Desktop/mobile/n/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:support-v4:23.0.1] /home/xenial/Desktop/mobile/n/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
